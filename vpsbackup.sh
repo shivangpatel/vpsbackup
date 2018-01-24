@@ -3,7 +3,7 @@
 # https://github.com/shubhamoy/vpsbackup
 
 # BEGIN configuration
-MYSQL_PASS="Enter your MySQL Password"
+MYSQL_PASS='Enter your MySQL Password'
 BACKUP_DIRS="/var/www /home/me/stuff"
 SCP_TARGET="ubuntu@54.xxx.xxx.xxx:/home/backup/"
 # END configuration
